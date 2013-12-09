@@ -11,6 +11,7 @@ body {
 }
 
 .test{
+  color: #F6F6F6
 	display: -webkit-flex;
   position: block;
 	font-size: 20px;
