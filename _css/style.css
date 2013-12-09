@@ -11,8 +11,8 @@ body {
 }
 
 .test{
-  color: #F6F6F6
 	display: -webkit-flex;
+  color: #F6F6F6;
   position: block;
 	font-size: 20px;
   -webkit-flex-direction: column;
